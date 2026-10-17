@@ -129,6 +129,10 @@ Stages 1, 2 and 4 are deterministic. Stage 3 is human judgement and is not
 reproducible as a script.
 
 
+## See also
+
+Ready-to-use LaTeX templates for the conventions this corpus describes: [math-paper-templates](https://github.com/XXXXXXQ-0206/math-paper-templates).
+
 ## Provenance and licence
 
 This repository is a **derivative work** of [openai/math](https://github.com/openai/math).

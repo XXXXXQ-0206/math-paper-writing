@@ -92,6 +92,10 @@ node scripts/assemble.cjs final references
 第 1、2、4 步是确定性的；第 3 步是人工判断，不可复现为脚本。
 
 
+## 相关仓库
+
+与本语料所描述规范配套的 LaTeX 模板：[math-paper-templates](https://github.com/XXXXXXQ-0206/math-paper-templates)。
+
 ## 来源与许可
 
 本仓库是 [openai/math](https://github.com/openai/math) 的**衍生作品**。`references/` 下的正文取自该仓库手稿的 LaTeX 源码，做了如下修改：去除 LaTeX 标记，把公式压缩为行内数学、`[EQ]`、`[CITE]`、`[REF]`，删除图表与参考文献，按手稿精选、合并、精简，并按写作模块与数学分支重排。
