@@ -1,0 +1,8 @@
+_repo/
+selected.json
+overview.tex
+raw/
+shards/
+curated/
+final/
+*.log

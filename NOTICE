@@ -1,0 +1,24 @@
+math-paper-writing
+Copyright 2026 XXXXXQ-0206
+
+This product includes material derived from OpenAI's math repository
+(https://github.com/openai/math), Copyright OpenAI, licensed under the
+Apache License, Version 2.0.
+
+The files under references/ contain prose extracted from the LaTeX sources
+of the manuscripts in that repository. The following modifications were made:
+
+  * LaTeX markup was removed and mathematical notation was reduced to
+    inline math, [EQ] for display equations, [CITE] for citations and
+    [REF] for cross-references.
+  * Figures, tables, bibliographies and acknowledgements were removed.
+  * Prose was selected, merged and condensed per manuscript, and passages
+    cut from within a fragment are marked with [...].
+  * Fragments were grouped by writing module (abstract, introduction,
+    preliminaries, statements, proof, conclusion) and by discipline.
+
+papers.tsv records the source manuscript of every fragment; the @src label
+at the head of each fragment gives its upstream directory.
+
+The original manuscripts and their Lean formalizations are available at
+https://github.com/openai/math under the Apache License, Version 2.0.

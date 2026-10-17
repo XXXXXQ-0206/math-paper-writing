@@ -1,0 +1,4 @@
+interface:
+  display_name: "数学论文写作（Math）"
+  short_description: "写数学论文时按模块检索的 729 篇跨 17 分支语料"
+  default_prompt: "用 $math-paper-writing 写一篇数学论文。"

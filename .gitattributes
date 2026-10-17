@@ -1,0 +1,5 @@
+# Normalise line endings so the corpus is byte-identical across platforms.
+* text=auto eol=lf
+*.tsv text eol=lf
+*.cjs text eol=lf
+*.md  text eol=lf
