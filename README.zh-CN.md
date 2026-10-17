@@ -94,7 +94,7 @@ node scripts/assemble.cjs final references
 
 ## 相关仓库
 
-与本语料所描述规范配套的 LaTeX 模板：[math-paper-templates](https://github.com/XXXXXXQ-0206/math-paper-templates)。
+与本语料所描述规范配套的 LaTeX 模板：[math-paper-templates](https://github.com/XXXXXQ-0206/math-paper-templates)。
 
 ## 来源与许可
 
